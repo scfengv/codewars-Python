@@ -13,3 +13,5 @@ def first_non_repeating_letter(string):
         if lis.count(lis[i])==1:
            return string[i]
     return ""
+
+print('test')
